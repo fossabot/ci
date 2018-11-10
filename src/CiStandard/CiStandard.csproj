@@ -8,8 +8,4 @@
     <RootNamespace>CiStandard</RootNamespace>
     <Description>Ci tests</Description>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Ensure.That" Version="7.2.0" />
-  </ItemGroup>
 </Project>
