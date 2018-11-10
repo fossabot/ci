@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>CiStandard.Bis</PackageId>
+    <AssemblyTitle>CiStandard.Bis</AssemblyTitle>
+    <AssemblyName>CiStCiStandard.Bisandard</AssemblyName>
+    <RootNamespace>CiStandard.Bis</RootNamespace>
+    <Description>Ci tests bis</Description>
+  </PropertyGroup>
+
+</Project>

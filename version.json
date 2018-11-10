@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/AArnott/Nerdbank.GitVersioning/master/src/NerdBank.GitVersioning/version.schema.json",
-  "version": "0.2-beta",
+  "version": "0.3-beta",
   "assemblyVersion": {
     "precision": "build"
   },
@@ -12,7 +12,6 @@
     "semVer": 2
   },
   "cloudBuild": {
-    "setAllVariables": true,
     "buildNumber": {
       "enabled": true
     }
