@@ -3,7 +3,6 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>CiStandard</PackageId>
-    <Version>0.0.2</Version>
     <AssemblyTitle>CiStandard</AssemblyTitle>
     <AssemblyName>CiStandard</AssemblyName>
     <RootNamespace>CiStandard</RootNamespace>
