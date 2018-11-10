@@ -1,0 +1,12 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Authors>Joan Caron</Authors>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/joancaron/ci</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/joancaron/ci</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/joancaron/cryptocompare-api/master/cryptocompare_logo.png</PackageIconUrl>
+    <PackageTags>ci tests</PackageTags>
+    <PackageLicenseUrl>http://opensource.org/licenses/apache-2.0</PackageLicenseUrl>
+    <Copyright>Copyright Joan Caron 2018</Copyright>
+  </PropertyGroup>
+</Project>
