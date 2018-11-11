@@ -4,5 +4,6 @@ namespace CiStandard.Bis
 {
     public class Class1
     {
+
     }
 }
