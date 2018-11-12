@@ -2,8 +2,12 @@
 
 namespace CiStandard
 {
-    public static class Class1
+    public class Class1
     {
-        public static bool IsTrue => true;
+        public Class1()
+        {
+        }
+
+        public virtual bool IsTrue { get; set; }
     }
 }

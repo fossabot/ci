@@ -1,4 +1,7 @@
 using System;
+
+using Moq;
+
 using Xunit;
 
 namespace CiStandard.Tests
@@ -8,7 +11,9 @@ namespace CiStandard.Tests
         [Fact]
         public void Test1()
         {
-            Assert.True(Class1.IsTrue);
+            var c = new Mock<Class1>();
+            c.Setup(class1 => class1.IsTrue).Returns(false);
+            Assert.False(c.Object.IsTrue);
         }
     }
 }
