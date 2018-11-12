@@ -1,14 +1,14 @@
 using System;
 using Xunit;
 
-namespace CiStandard.Tests
+namespace CiStandard.Bis.Tests
 {
-    public class UnitTest1
+    public class UnitTestBis
     {
         [Fact]
         public void Test1()
         {
-            Assert.True(Class1.IsTrue());
+            Assert.True(Class1Bis.IsTrue());
         }
     }
 }

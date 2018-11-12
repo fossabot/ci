@@ -4,9 +4,13 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>CiStandard.Bis</PackageId>
     <AssemblyTitle>CiStandard.Bis</AssemblyTitle>
-    <AssemblyName>CiStCiStandard.Bisandard</AssemblyName>
+    <AssemblyName>CiStandard.Bis</AssemblyName>
     <RootNamespace>CiStandard.Bis</RootNamespace>
     <Description>Ci tests bis</Description>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CiStandard\CiStandard.csproj" />
+  </ItemGroup>
 
 </Project>
