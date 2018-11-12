@@ -14,6 +14,7 @@ namespace CiStandard.Tests
             var c = new Mock<Class1>();
             c.Setup(class1 => class1.IsTrue).Returns(false);
             Assert.False(c.Object.IsTrue);
+
         }
     }
 }
