@@ -9,7 +9,6 @@ namespace CiStandard.Tests
         public void Test1()
         {
             Assert.True(Class1.IsTrue());
-
         }
     }
 }
